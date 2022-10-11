@@ -1,0 +1,3 @@
+/node_modules
+*.scss
+next-env.d.ts
